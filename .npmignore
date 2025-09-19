@@ -1,0 +1,17 @@
+src/
+coverage/
+.github/
+specs/
+*.test.ts
+*.spec.ts
+__tests__/
+jest.config.js
+tsconfig.json
+.eslintrc.json
+.prettierrc
+service_account.json
+CLAUDE.md
+*.log
+*.tmp
+.env
+.env.*
