@@ -16,3 +16,6 @@ service_account.json
 *~
 .npm/
 .cache/
+.claude/
+specs/
+CLAUDE.md
