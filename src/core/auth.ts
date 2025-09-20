@@ -12,6 +12,7 @@ export interface ServiceAccountKey {
 	token_uri: string;
 	auth_provider_x509_cert_url: string;
 	client_x509_cert_url: string;
+    universe_domain?: string;
 }
 
 export interface OAuth2Credentials {
